@@ -1,4 +1,4 @@
-# Linux-VM-VirtualBox-to-Wondows11
+# Linux-VM-VirtualBox-to-Windows11
 
 Noticed when you install Linux VirtualBox to Windows 11
 
