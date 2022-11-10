@@ -9,3 +9,4 @@ Tarkista koneen tekniset tiedot, että prosessori on Linuxia tukeva ja muisti ri
 ## Asennuksen ongelmat ja siihen ratkaisut
 
 Odotettavissa on, että asennus näyttää onnistuvan siihen saakka, kunnes käynnistät VirtualBoxin. Virheilmoitus on luultavasti 'Kernel' panic.
+alku8.PNG
