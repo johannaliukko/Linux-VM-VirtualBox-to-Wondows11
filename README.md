@@ -1,3 +1,4 @@
+# Linux-VirtualBox-to-Windows11
 
 Noticed when you install Linux VirtualBox to Windows 11
 
@@ -8,4 +9,4 @@ Tarkista koneen tekniset tiedot, että prosessori on Linuxia tukeva ja muisti ri
 ## Asennuksen ongelmat ja siihen ratkaisut
 
 Odotettavissa on, että asennus näyttää onnistuvan siihen saakka, kunnes käynnistät VirtualBoxin. Virheilmoitus on luultavasti 'Kernel' panic.
-<img src="alku8.PNG"
+<img src="alku8.PNG">
