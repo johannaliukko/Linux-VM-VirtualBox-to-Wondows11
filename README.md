@@ -38,8 +38,11 @@ Kokeilin varmuuden vuoksi tehdä uuden irtuaalisen Linux-pohjan asentamalla Debi
 
 #### LÄHTEET
 https://www.virtualbox.org/wiki/Technical_documentation 
+
 https://forums.virtualbox.org/viewtopic.php?f=6&t=105926 
+
 https://blogs.oracle.com/virtualization/post/install-microsoft-windows-11-on-virtualbox 
+
 Ja muut lukuisat Google saitit, joita ei tullut otettua talteen sattuneesta syystä
 
 
