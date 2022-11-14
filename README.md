@@ -13,6 +13,9 @@ Aloitettu 27.10.2022
 Tarkista koneen tekniset tiedot, että prosessori on Linuxia tukeva ja muisti riittää. Linuxissa on sellaisia versioita, joita pystyy pienillä muistimäärillä pyörittämään. Jos asennus tapahtuisi pääkäyttöjärjestelmäksi pystyisi jättämään asennuksista jotain osioita pois. Halusin käyttää Windows 11 koneella rinnakkain virtuaalista Linuxia. 
 CPU-Z:llä katsoin tarkemmat koneeni spekseistä, jotta varmasti koneeni olisi yhteensopiva valmitsemani Linux-sovelluksen kanssa.
 
+<img src="CPU-Z01.PNG">
+<img src="CPU-Z02.PNG">
+
 
 
 VirtualBoxin pääset asentamaan täältä https://www.virtualbox.org/
