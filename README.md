@@ -15,9 +15,15 @@ CPU-Z:llä katsoin tarkemmat koneeni spekseistä, jotta varmasti koneeni olisi y
 
 <img src="CPU-Z01.PNG"><img src="CPU-Z02.PNG">
 
+Virtualbox tuli asentaa, jotta pystyisin käyttämään Linuxia ns. aidossa ympäristössä. VirtualBoxin löytää täältä ladattavaksi https://www.virtualbox.org/ 
+Sivuilla kerrotaan sopivan eri Windowsseille, mutta Windows 11 ei ollut mainintaa.
+Heti etusivuilta löytyy nappi, josta pääsee lataussivuille. Kirjoittaessani tätä raporttia VirtualBox 7.0.2  oli uusin. Jokaiselle käyttöjärjestelmälle on oma tiedostonsa ja klikkaamalla Windows hosts linkkiä ponnahtaa ikkuna, jolla saa tiedoston tallennettua koneelle. Latauksen jälkeen etsin tiedoston ja klikkasin sitä kahteen kertaan, jolloin asentaminen alkaa.
+
+## Asennus
+Olin Johdanto ICT-infrastruktuuriin ja pilvipalveluihin - ICI001IT1A-3022 -kurssilla, jonka materiaaleista löytyy ohje "Ubuntun asentaminen VirtualBox:n avulla". Ohje on suomen kielinen. Koska virtuaalisen Linuxin asentaminen jäi kiireen vuoksi tekemättä oli se nyt edessä.
 
 
-VirtualBoxin pääset asentamaan täältä https://www.virtualbox.org/
+
 
 ## Asennuksen ongelmat ja siihen ratkaisut
 
