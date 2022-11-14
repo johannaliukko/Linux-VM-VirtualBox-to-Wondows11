@@ -5,7 +5,11 @@ Noticed when you install Linux VirtualBox to Windows 11
 ## Huomioitavaa, kun asennat Windows 11 koneeseen VirtualBox
 
 #### Tämä kuuluu kurssiin Configuration Management Systems - Palvelinten Hallinta ict4tn022-3018 - syksy 2022 https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/
-_
+
+Aloitettu 27.10.2022
+
+##Esivalmistelut ennen käyttöönottoa
+
 Tarkista koneen tekniset tiedot, että prosessori on Linuxia tukeva ja muisti riittää. Linuxissa on sellaisia versioita, joita pystyy pienillä muistimäärillä pyörittämään. Jos asennus tapahtuisi pääkäyttöjärjestelmäksi pystyisi jättämään asennuksista jotain osioita pois. VirtualBoxin pääset asentamaan täältä https://www.virtualbox.org/
 
 ## Asennuksen ongelmat ja siihen ratkaisut
