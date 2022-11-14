@@ -20,7 +20,8 @@ Sivuilla kerrotaan sopivan eri Windowsseille, mutta Windows 11 ei ollut maininta
 Heti etusivuilta löytyy nappi, josta pääsee lataussivuille. Kirjoittaessani tätä raporttia VirtualBox 7.0.2  oli uusin. Jokaiselle käyttöjärjestelmälle on oma tiedostonsa ja klikkaamalla Windows hosts linkkiä ponnahtaa ikkuna, jolla saa tiedoston tallennettua koneelle. Latauksen jälkeen etsin tiedoston ja klikkasin sitä kahteen kertaan, jolloin asentaminen alkaa.
 
 ## Asennus
-Olin Johdanto ICT-infrastruktuuriin ja pilvipalveluihin - ICI001IT1A-3022 -kurssilla, jonka materiaaleista löytyy ohje "Ubuntun asentaminen VirtualBox:n avulla". Ohje on suomen kielinen. Koska virtuaalisen Linuxin asentaminen jäi kiireen vuoksi tekemättä oli se nyt edessä.
+Olin Johdanto ICT-infrastruktuuriin ja pilvipalveluihin - ICI001IT1A-3022 -kurssilla, jonka materiaaleista löytyy ohje "Ubuntun asentaminen VirtualBox:n avulla". Ohje on suomen kielinen. Koska virtuaalisen Linuxin asentaminen jäi kiireen vuoksi tekemättä oli se nyt edessä. Asennus alkoi hyvissä merkeissä, kuten seuraavista kuvista huomataan.
+<img src="alku01.PNG"><img src="alku02.PNG"><img src="alku03.PNG"><img src="alku04.PNG"><img src="alku06.PNG">
 
 
 
