@@ -21,7 +21,7 @@ Heti etusivuilta löytyy nappi, josta pääsee lataussivuille. Kirjoittaessani t
 
 ## Asennus
 Olin Johdanto ICT-infrastruktuuriin ja pilvipalveluihin - ICI001IT1A-3022 -kurssilla, jonka materiaaleista löytyy ohje "Ubuntun asentaminen VirtualBox:n avulla". Ohje on suomen kielinen. Koska virtuaalisen Linuxin asentaminen jäi kiireen vuoksi tekemättä oli se nyt edessä. Asennus alkoi hyvissä merkeissä, kuten seuraavista kuvista huomataan.
-<img src="alku01.PNG"><img src="alku02.PNG"><img src="alku03.PNG"><img src="alku04.PNG"><img src="alku06.PNG">
+<img src="alku1.PNG"><img src="alku2.PNG"><img src="alku3.PNG"><img src="alku4.PNG"><img src="alku6.PNG">
 
 
 
