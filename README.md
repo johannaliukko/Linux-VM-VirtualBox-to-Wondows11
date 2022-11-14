@@ -28,11 +28,24 @@ Olin Johdanto ICT-infrastruktuuriin ja pilvipalveluihin - ICI001IT1A-3022 -kurss
 Poistin VirtualBoxin, sillä mielessä kävi jos asennuksessa joku oli pieleen. Sama juttu seuraavallakin kerralla ja parin päivän aikana, jolloin googlasin ja hakkasin päätäni seinään yrittäessäni löytää ongelmaan ratkaisua. Ehdotuksia löytyi niin palomuurin poispäältä ottamisesta ja sinne asetuksien muuttamisesta. Myös Windowsin ominaisuuksia pyydettiin ottamaan käyttöön. Koneessani ei ollut rastitettuna virtuaalikoneympäristö, Windows-alijärjestelmä Linuxille eikä Windowsin hypervisor-ympäristö, joten rastitin ne ja toivoIn parasta.
 <img src="alku9.PNG">
 
-## ratkaisu
+Edelleen kernel panikoitui ja niin aloin itsekin panikoitumaan. Epätoivo puski jo päälle ja 4-5 päivän jälkeen annoin periksi. Odotin masentuneena seuraavan kurssipäivän saapumista ja mietin, miten ratkaista asia.
+
+## Ratkaisu
+Kurssipäivä saapui ja kerroin tilanteestani sekä kernelin paniikista. Joku kurssikavereista vinkkasi tätä linkkiä https://forums.virtualbox.org/viewtopic.php?f=6&t=105926. Mielestäni olin tällä saitilla käynyt, mutta en löytänyt tuota ja sielläpä se ratkaisu oli kirjoitettuna: laita asennuksessa kaksi (2) prosessoria yhden (1) sijaan! Nyt VirtualBox meni heittämällä ja ongelmitta koneelle sekä Ubuntun.
+
+## Päivitys 10.11.2022
+Kokeilin varmuuden vuoksi tehdä uuden irtuaalisen Linux-pohjan asentamalla Debianin kahdella prosessorilla eikä ollut mitään ongelmia. Katselin ihaillen asennuksen etenemistä samalla kuin keräsin tietoa lisää oppitunnilta.
+
+#### LÄHTEET
+https://www.virtualbox.org/wiki/Technical_documentation 
+https://forums.virtualbox.org/viewtopic.php?f=6&t=105926 
+https://blogs.oracle.com/virtualization/post/install-microsoft-windows-11-on-virtualbox 
+Ja muut lukuisat Google saitit, joita ei tullut otettua talteen sattuneesta syystä
 
 
 
-<img src="alku8C.PNG">
+
+
 
 
 
